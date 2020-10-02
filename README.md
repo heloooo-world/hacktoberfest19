@@ -2,7 +2,7 @@
 Bu depo, sizlere Github'da ilk pull requestinizi göndermenize yardımcı olmak amacıyla oluşturulmuştur. 
 Becerilerinizi, projelerinizi ekleyerek burada kalıcı olarak kalmasını sağlayabilirsiniz. 
 Herkes bu depoya katkıda bulunabilir.
-En önemli amaç yaklaşmakta olan Hacktoberfest19 etkinliğine Türk katılımını arttırmak ve Türkçe kaynak olarak herkese yardımcı olabilmektir.
+En önemli amaç yaklaşmakta olan bhbhbhbhHacktoberfest19 etkinliğine Türk katılımını arttırmak ve Türkçe kaynak olarak herkese yardımcı olabilmektir.
 Hadi durmayın !! Çekinmeden,utanmadan ilk pull requestinizi gönderin. 😏
 
 Sizde bu depoda yer almak istiyorsanız aşağıdaki adımları takip edin :
