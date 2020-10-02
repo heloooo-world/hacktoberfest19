@@ -1,5 +1,5 @@
 # İlk Pull Request Nasıl Oluşturulur?
-Bu depo, sizlere Github'da ilk pull requestinizi göndermenize yardımcı olmak amacıyla oluşturulmuştur. 
+Bu depo, sizlere Github'da ilk pull requestinizi göndermenisdze yardımcı olmak amacıyla oluşturulmuştur. 
 Becerilerinizi, projelerinizi ekleyerek burada kalıcı olarak kalmasını sağlayabilirsiniz. 
 Herkes bu depoya katkıda bulunabilir.
 En önemli amaç yaklaşmakta olan Hacktoberfest19 etkinliğine Türk katılımını arttırmak ve Türkçe kaynak olarak herkese yardımcı olabilmektir.
@@ -32,7 +32,7 @@ Böylece herkesin katkılarınızdan haberi olmasını sağlayacağız.
 ```
 
 5. Değişiklikleri ekle, ilk commit mesajını oluştur ve GitHub'a gönder.
-```
+```sd
 git add .
 
 git commit -m "Bilgilerim Eklendi."
@@ -44,7 +44,7 @@ git push origin <branch-adı>
 
 Bu adımdan sonra proje anasayfasına gittiğimizde Pull Request açmak için aşağıdaki gibi bir buton göreceksiniz.
 ![Resim](https://github.com/dilekuzulmez/ilk-pull-request/blob/master/Resimler/pull-request.png)
-
+sdsdsd
 _Not: Eğer bu butonu göremiyorsanız depo anasayfasından “Pull Requests” sekmesine tıklayın, ardından sağ tarafta bulunan “New pull request” butonunu kullanın._
 
 7. Başardınız ! İlk pull requestinizi gönderdiniz. :smile:
